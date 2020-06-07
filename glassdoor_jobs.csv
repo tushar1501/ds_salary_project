@@ -1,0 +1,1120 @@
+Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors
+Data Scientist,-1,"Job Description – Data Scientist
+
+Location: Chennai or Bengaluru, India
+
+
+Buckman is a privately held, global specialty chemical company with headquarters in Memphis, TN, USA, committed to safeguarding the environment, maintaining safety in the workplace, and promoting sustainable development. Buckman works proactively and collaboratively with its worldwide customers in pulp and paper, leather, and water treatment to deliver exceptional service and innovative specialty chemical solutions to help boost productivity, reduce risk, improve product quality, and provide a measurable return on investment. Buckman is in the middle of a digital transformation of its businesses and focused on building the capabilities and tools in support of this.
+
+Job Description
+
+
+Buckman is seeking an experienced Data Scientist to lead the development of a Data Science program. You will work closely with Buckman stakeholders to derive deep industry knowledge across paper, water, leather, and performance chemical industries. You will help develop a data strategy for the company including collection of the right data, creation of the data science project portfolio, partnering with external providers, and augmenting capabilities with additional internal hires. A large part of the job is communicating and developing relationship with key stakeholders and subject matter experts to tee up proofs of concept projects to demonstrate how data science can be used to solve old problems in unique and novel ways. You will not have a large internal team to rely on, at least initially, so individual expertise, breadth of data science knowledge, and ability to partner with external companies will be essential for success. In addition to the pure data science problems, you will be working closely with a multi-disciplinary team consisting of sensor scientists, software engineers, network engineers, mechanical/electrical engineers, and chemical engineers in the development, and deployment of IoT solutions. If you like working for an entrepreneurial company with a Sustainability mission and digital ambitions at the core of its strategy, Buckman is the place for you.
+
+Basic Qualifications
+Bachelor’s degree in a quantitative field such as Data Science, Statistics, Applied Mathematics, Physics, Engineering, or Computer Science
+5+ years of relevant working experience in an analytical role involving data extraction, analysis, and visualization and expertise in the following areas:
+Expertise in one or more programming languages R, Python, MATLAB, JMP, Minitab, Java, C++, Scala
+Key libraries such as Sklearn, XgBoost, GLMNet, Dplyr, ggplot, Rshiny
+Experience and knowledge of data mining algorithms including supervised and unsupervised machine learning techniques areas such as Gradient Boosting, Decision Trees, Multivariate Regressions, Logistic regressions, Neural Network, Random Forest, Support Vector Machine, Naive Bayes, Time Series, Optimization
+Microsoft IoT/data science toolkit: Azure Machine Learning, Datalake, Datalake analytics, Workbench, IoT Hub, Stream Analytics, CosmosDB, Time Series Insights, PowerBI
+Data querying languages (e.g. SQL, Hadoop/Hive) and Preferred Qualifications
+A demonstrated record of success with a verifiable portfolio of problems tackled
+Preferred qualifications
+Master’s or PhD degree in a quantitative field such as Data Science, Statistics, Applied Mathematics, Physics, Engineering, or Computer Science
+Experience in the specialty chemicals sector or similar industry
+Background in engineering, especially Chemical Engineering
+Experience starting up a data science program
+Experience working with global stakeholders
+Experience working in a start-up environment, preferably in an IoT company
+Knowledge in quantitative modeling tools and statistical analysis
+Personality Traits
+A strong business focus, ownership and inner self-drive to data science solutions to real-world customers with tangible impact.
+Ability to collaborate effectively with multi-disciplinary and passionate team members.
+Ability to communicate with a diverse set of stakeholders
+Strong planning and organization skills, with the ability to manage multiple complex projects
+A life-long learner who constantly updates skills",3.4,"Buckman
+3.4",Chennai,"Memphis, TN",1001 to 5000 employees,1945,Company - Private,Chemical Manufacturing,Manufacturing,₹50 to ₹100 billion (INR),-1
+Data Scientist,-1,"Overview
+
+
+We have an exciting opportunity for a Data Scientist to join our dynamic AI Development team. This permanent position is well suited to an individual that is looking to advance their career in Python / R / Java Programming and gain hands-on experience in a thriving and supportive workplace.
+
+Responsibilities
+
+
+Objectives: 
+Primary focus on applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products.
+Ability to manage time and follow guidelines and processes.
+Procedures: 
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+ Selecting features, building and optimizing classifiers using machine learning techniques
+ Once the data source has been identified, mine and analyse data to drive optimization and improvement of product development, marketing techniques and business strategies.
+ Enhancing data collection procedures to include information that is relevant for building analytic systems
+ Design and review data collection procedures for regulatory compliance.
+ Develop custom data models and algorithms to apply to data sets.
+ Present information using data visualization techniques
+ Propose solutions and strategies to business challenges
+ Collaborate with SAS programming and Statistics teams
+ Develop company A/B testing framework and test model quality.
+ Develop processes and tools to monitor and analyse model performance and data accuracy.
+ Raise awareness with other team on Data Science techniques and approaches.
+ Have a good understanding of ICH/GCP guidelines.
+ Follow appropriate Project Management procedures.
+ Communicate effectively with project team.
+Key Contacts/Relationships (Internal & External):
+
+Internal:Work closely with other project team members, mentor and line manager.
+
+External:Under supervision, may have limited interaction with internal clients to complete various programming activities. To fulfil this role, the Data Scientist supported by AI team members, may be required to participate in project team meetings and be responsive on an ad-hoc basis.
+
+Qualifications
+Qualified to degree level or equivalent, preferably in a numerate discipline
+Good knowledge on statistics.
+5 years of experience on Programming / Data Science Industry and minimum 2 year as Data Scientist",4.0,"Quanticate
+4.0",Bengaluru,"Hitchin, United Kingdom",201 to 500 employees,1995,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,₹1 to ₹5 billion (INR),"GCE Solutions, Parexel, IQVIA"
+Data Scientist,-1,"Provide analytical insights into emerging problems, trends and portfolios
+Work closely with business partners and stakeholders to determine how to design analysis and measurement approaches that will significantly improve our ability to understand and address emerging business issues
+Bringing data to life and making it actionable and relevant to stakeholders through exploratory analysis of internal and external data sources using advanced and innovative analytical techniques, algorithms, and tools
+Identifying present or future gaps in the teams existing reporting and tools suite and managing portfolio monitoring, dashboards and reporting
+Providing regular updates to leadership, product and other stakeholders that will simplify and clarify complex concepts and the results of analyses effectively with emphasis on the actionable outcomes and impact to business
+Experience with standard statistical techniques and tools a plus
+Required Qualifications
+Bachelor's Degree in a quantitative discipline (Economics, Engineering, Computer Science, Math, Statistics)
+1-2 years experience in analytics or management consulting
+Proficiency using SQL and querying relational databases
+Experience in at least one statistical programming language (SAS, R, Python)
+Experience in at least one data visualization tool (Tableau, Qlikview)
+Experience with project management
+Preferred Skills:
+Strong communication skills
+Quick learning
+Out-of-box Problem Solving",3.6,"PayPal
+3.6",Bengaluru,"San Jose, CA",10000+ employees,1998,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Square, Amazon, Apple"
+Data Scientist,-1,"Introduction
+• The role will involve running workshops to define the problem statement, identifying the data that is required, cleaning up the data, running feature engineering techniques and building / testing ML/DL models. A combination of one of more of IBM AI technologies from the Watson portfolio, Open Source and 3rd Party technologies will be used to be deliver the required outcomes.
+
+Your Role and Responsibilities
+The responsibility of a Data Scientists will include working with Sales, Tech Sales & IBM Clients to define an approach to Machine/Deep Learning problems, building the models and delivering them.
+Required Technical and Professional Expertise
+Python - 3-5 Years
+Machine learning Model (Regression, Classification, Unsupervised techniques, ensemble modeling) - 2-3 Years (Mtech) / 0-1 Years (PhD)
+Deep Learning models (Image, NLP, Structured data) - 1-2 Years (Mtech) / 0-1 Years (PhD)
+Tech Sales, Sellers, Architects
+Cloud native technologies
+Agile development
+Preferred Technical and Professional Expertise
+Specialisation in any of the following fields - NLP, NLU, NLG, Computer Vision, Facial Recognition - 0-2 Years
+Good communication
+Active listener
+About Business Unit
+IBM has a global presence, operating in more than 175 countries with a broad-based geographic distribution of revenue. The companys Global Markets organization is a strategic sales business unit that manages IBMs global footprint, working closely with dedicated country-based operating units to serve clients locally. These country teams have client relationship managers who lead integrated teams of consultants, solution specialists and delivery professionals to enable clients growth and innovation. By complementing local expertise with global experience and digital capabilities, IBM builds deep and broad-based client relationships. This local management focus fosters speed in supporting clients, addressing new markets and making investments in emerging opportunities. Additionally, the Global Markets organization serves clients with expertise in their industry as well as through the products and services that IBM and partners supply. IBM is also expanding its reach to new and existing clients through digital marketplaces.
+
+Your Life @ IBM
+What matters to you when youre looking for your next career challenge?
+
+Maybe you want to get involved in work that really changes the world? What about somewhere with incredible and diverse career and development opportunities where you can truly discover your passion? Are you looking for a culture of openness, collaboration and trust where everyone has a voice? What about all of these? If so, then IBM could be your next career challenge. Join us, not to do something better, but to attempt things you never thought possible.
+
+Impact. Inclusion. Infinite Experiences. Do your best work ever.
+
+About IBM
+IBMs greatest invention is the IBMer. We believe that progress is made through progressive thinking, progressive leadership, progressive policy and progressive action. IBMers believe that the application of intelligence, reason and science can improve business, society and the human condition. Restlessly reinventing since 1911, we are the largest technology and consulting employer in the world, with more than 380,000 IBMers serving clients in 170 countries.
+
+Location Statement
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+Being You @ IBM
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.",3.9,"IBM
+3.9",Bengaluru,"Armonk, NY",10000+ employees,1911,Company - Public,IT Services,Information Technology,₹500+ billion (INR),"Amazon, Accenture, Microsoft"
+Data Scientist,-1,"At Amazon, we strive to be most customer-centric company on the earth. To get there, we need exceptionally talented, bright, dynamic and driven people to develop the next-generation technologies.
+Are you champion of innovating on behalf of the customer by turning data insights into action? Do you want to be part of Amazons strategic and highly impactful finance and payroll technology projects? Amazons Finance Automation Payroll Tech team has an opportunity for a seasoned Data Scientist whose experience illustrates a clear ability to create world class machine learning systems to meet long-term Payroll needs.
+
+At Finance Automation, we are passionate about building systems and services that deliver a seamless and transparent finance experience for Amazon partners. We build, operate, and scale systems that are responsible for billions of dollars in transactions, and are central to the success of worldwide finance. We ""think globally, act locally"" to revolutionize a worldwide employee and customer experience and fulfill our promise to pay accurately, on-time, with lowest cost to Amazon.
+
+As a Data Scientist at Finance Automation, you are self-driven leader with extensive experience in applying statistics and data science concepts to bring tangible benefits for global finance operations. Finance and Payroll domain knowledge is a plus but not required.
+
+· Work with finance and payroll stakeholders to understand the organization goals, objectives, and pain points. Identify key areas to drive Machine Learning initiatives, define needle-moving business questions and success criteria.
+· Collect and analyze finance, HR, and payroll data across multiple isolated systems. Derive actionable insights from large volumes of heterogeneous data.
+· Create reliable and maintainable code to build regression, classification, clustering, and anomaly detection systems. Work closely with software engineers to develop data ingestion and visualization, and productionize your models.
+· Partner with finance analysts, and payroll managers to deploy and test machine learning systems with your statistical models at the core. Automate feedback loops, tune, and improve the models in production.
+· Train non-tech stakeholders and partners to effectively use your machine learning systems. Set the right expectations on model limitations and prove business value.
+· Create and maintain business and technical artifacts such as requirements documentation, use cases, performance evaluation, and model metrics.
+· Learn and utilize AWS technologies and Amazon machine learning systems to effectively work with terabytes of data.
+
+Being part of Amazon Finance Automation gives you the opportunity to work in a rapidly growing organization with many high performing global technology teams. Come join us in making history!
+
+
+
+
+Basic Qualifications
+
+· Bachelor's or Masters degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field with 5 years of working experience as a Data Scientist.
+· In-depth knowledge on supervised and unsupervised machine learning algorithms including classification, clustering, and regression.
+· Experience building productions systems with statistical analysis, data modeling, regression modeling and forecasting, time series analysis, and deep learning neural networks.
+· Expertise in coding using one or more programming languages such as R, Python, MATLAB, and Spark to build machine learning models. Skilled in manipulating and processing data using libraries such as Scikit-learn, Pandas, and NumPy. Demonstrated experience in SQL and/or NoSQL data modeling.
+· Experience processing, filtering, and presenting large quantities of data. Ability to design for performance, scalability, and availability.
+· Excellent communication, analytical and problem-solving skills. Ability to distill informal customer requirements into problem definitions, dealing with ambiguity and competing objectives.
+· Obsession with quality, operational excellence, and customer experience. Ability to convey rigorous mathematical concepts and considerations to non-experts.
+
+Preferred Qualifications
+
+· Passion to dive deep to resolve problems at their root, looking for failure patterns amenable to long-term solutions via simplification and automation.
+· Experience in AWS is a huge plus. Functional knowledge of AWS platforms such as Sagemaker, S3, Glue, Dynamodb, and RedShift.
+· Exposure to finance and payments domain is a plus.
+· Deep understanding of data, application, server, and network security.
+· Experience with agile or scrum methodology.",4.2,"Amazon
+4.2",Hyderabad,"Seattle, WA",10000+ employees,1994,Company - Public,Internet,Information Technology,₹500+ billion (INR),"Google, Microsoft, Walmart"
+Data Scientist,-1,"What You Should Expect
+
+To ride the wave of AI/ML with deeply enmeshed Operations Research and Mathematics to make real impact in the world of Supply Chain Planning, Retail and Execution.
+
+What your work will be
+
+» Develop and operate solutions that optimize and automate business decisions using large data sets and algorithms
+
+» Work with complex data analysis, data preparation and developing prognostic models based on modern statistical methods
+
+» Develop a deep understanding of retail and supply chain problems
+
+» Write productive software that generates value for our customers
+
+Apply if you have
+
+» Good understanding and insight of Machine Learning Techniques – Supervised, Unsupervised or Semi-Supervised
+
+» Passion for writing software with emphasis on quality, testability and automation
+
+» Experience in building machine learning models or optimization software to solve business problems
+
+» Ability to communicate and contextualize results
+
+We believe that the individuality and diversity of our employees make a decisive
+
+contribution to our success. Our hiring process is based on qualifications and career profile.
+
+Our Values
+
+If you want to know the heart of a company, take a look at their values. Ours unite us. They are what drive our success – and the success of our customers. Does your heart beat like ours? Find out here: Core Values
+
+Check out JDA's blog - Supply Chain Nation - the platform for supply chain trends and innovations.",4.3,"Blue Yonder
+4.3",Bengaluru,"Scottsdale, AZ",5001 to 10000 employees,1985,Company - Private,Enterprise Software & Network Solutions,Information Technology,₹100 to ₹500 billion (INR),"SAP, Oracle, Manhattan Associates"
+Data Scientist,-1,"Driving Infinite Possibilities Within A Diversified, Global Organization
+
+
+Data Scientist
+
+Were looking for a new
+team member who is motivated by cracking tough challenges with data, trained in
+problem solving, and with an unending thirst for learning.
+As a Data Scientist, you
+will join a high-performing, global team, and assist with designing,
+developing, and deploying data driven solutions for all Honeywell business
+groups and functions. You will work closely with application architects to
+integrate results into operational platforms, including Hadoop and NoSQL
+architectures.
+Additionally, the Data
+Scientist role is expected to work within Honeywell to identify opportunities
+for new growth and efficiencies based on data analyses both in adjacencies
+based on previous engagements, as well as larger industry developments.
+Specific Responsibilities
+Develop data analytics, data modeling, mining,
+pattern analysis, data visualization and machine learning solutions to address
+customer needs
+Foster relationships with business
+team members by being proactive, displaying a thorough understanding of the
+business processes and by recommending innovative solutions
+Communicate project output in terms of
+customer value, business objectives, and product opportunity
+Promote data
+science methods and processes across functions
+Work with our businesses and
+infrastructure teams to develop a strategy that will clearly outline how our
+enterprise platforms can enable business growth & productivity and discover
+efficiencies to drive costs out of the ISC.
+
+CORPIT2020
+
+You must have:
+
+· Bachelors degree in Computer Science, Engineering, Applied Mathematics or related field
+
+· Minimum of 4 years of experience with distributed storage and compute tools (e.g. Hive and Spark)
+6-8 years of experience within Analytics
+Experience with data visualization, Tableau preferred.
+Understanding of machine learning techniques and algorithms, such as k-NN, Logistic/Linear Regression, Naive Bayes, SVM, Decision Forests, etc.
+Knowledge of cloud platforms AWS, Google Cloud, Azure, SnowFlake
+Strong knowledge of SQL, Python/R, query optimization and DBMS concepts
+Advanced knowledge of excel
+Strong analytical skills with an inherent ability to find, understand and work with large amounts of data.
+We value:
+
+· Experience bringing prototypes to production on Hadoop platforms and/or as containerized services
+Experience with SAP HANA, Snowflake, Redshift and Tableau
+· Experience with Streaming Analytics (i.e. Spark Streaming)
+
+· Experience with Natural Language Processing
+
+· Experience working with global teams
+
+· Results driven with a positive can-do attitude.
+
+· Thrives in a rapidly changing environment.
+
+Additional Information
+JOB ID: HRD94048
+Category: Information Technology
+Location: Devarabisanahalli Village, KR Varturhobli,,East Taluk - Phase I,Bangalore,KARNATAKA,560103,India
+Exempt
+Business Services",3.8,"Honeywell
+3.8",Bengaluru,"Charlotte, NC",10000+ employees,1885,Company - Public,Computer Hardware & Software,Information Technology,₹500+ billion (INR),"GE, Johnson Controls, United Technologies"
+Data Scientist,-1,"Senior Data Scientist
+
+Responsibilities
+Conduct large-scale data analysis and develop fraud prevention predictive models for financial institutions.
+Mine and analyze data to drive optimization and improvement of product development and business strategies.
+Maintain and analyze information about multiple clients’ models, to derive insights for clients and for enhancing risk model performance.
+Help maintain and improve model development tools.
+Take part in the formation of a new team and help setup practices and processes.
+
+
+Qualifications
+Advanced degree in a quantitative area (statistics, mathematics, physics, computer science, engineering)
+Experience of 4-7 years with statistical model development. Deep and diverse experience with multiple statistical procedures and machine learning algorithms.
+Strong general analytical skills, agility with using quantitative tools to solve analytical problems
+Good oral and written communications skills, and ability to interact with engineers, software developers, project managers, business analysts, product managers and with clients.
+Vast experience using SQL and modeling with Python.
+Innovative aptitude and can-do approach.",3.9,"NICE Actimize
+3.9",Pune,"Hoboken, NJ",501 to 1000 employees,1999,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,"SAS, Feedzai"
+Data Scientist,-1,"When everything's connected, how we connect is everything… and we'd like to connect with you too! We are looking for you to help us deliver exceptional customer experiences as a Data Scientist.
+At TTEC Digital, we combine human insight and the speed of technology to transform our clients’ interactions with their customers. Advanced analytics of the customer experience and customer interactions is our expertise.
+Check out our website below to learn more about what we do and how we help our clients.
+What you’ll be doing
+This person will be a part of our Global Data Science Center focused on helping our clients find and seize opportunities in their markets.
+
+Support the development of consulting products such as proprietary customer experience scores and marketing optimization solutions
+Maintain our stellar reputation with our clients and drive >80 client NPS
+Leverage a mixture of data science methods such as SVM, neural nets, decision trees, and regression models to deliver proprietary uplift model solutions
+Support the introduction and advancement of decision science throughout our contact center engagement
+Recommend and introduce new methods where relevant
+Resource Planning
+Recommend required resources to managers
+Align required resources to client schedules
+Mentor data engineers and architects on requirements
+Develop requirements and technical specifications documents for use by engineers
+
+Delivery
+Recommend project timelines to managers
+Drive on-time delivery and identify and escalate risks to managers
+Support attainment of annual goals for client satisfaction
+Deliver your own solutions while collaborating on other projects
+
+What you’ll bring to the role
+Masters in Statistics, Economics, IE/OR, Computer Science, Applied Mathematics or related field is required; PhD is a plus
+1-5 years' experience delivering advanced analytics solutions since graduate program
+Ability to translate client requests into approach statements and project plans
+Ability to work in a highly collaborative, team-oriented environment
+Ability to identify effective, relevant statistical and/or mathematical methods to solve complex business problems
+Expert at data wrangling both structured and unstructured data
+Experience delivering solutions using regression modeling or machine learning techniques; experience with both is desired
+Expert in developing and implementing predictive analytics solutions in one or more of the following languages: R or Python experience with SAS is desired
+Experience delivering solutions using large datasets (multi-Gb or larger)
+Experience in MS Office suite of products, especially Excel and Powerpoint
+Ability to work within any modern big data environment (AWS, MS Azure, SAP Hana, etc.) is desired
+Experience with text analytic or speech analytic is desired.
+Experience with one or more modern social listening tools (Crimson Hexagon, TheySay, etc.) is desired
+What skills you’ll need:
+Excellent analytic and data-driven thinking skills
+Strong communication skills and an ability to work successfully in a distributed workforce
+Creative problem solving and an understanding of analytics workflows
+Strong background in consulting a plus
+
+About TTEC
+We help global brands provide a great experience to their customers, build customer loyalty, and grow their business. We were founded on one guiding principle: customer experiences that are simple, inspired, and more human deliver lasting value for everyone. Your role brings that principle to life.",3.4,"TTEC
+3.4",Hyderabad,"Englewood, CO",10000+ employees,1982,Company - Public,Staffing & Outsourcing,Business Services,₹100 to ₹500 billion (INR),"Teleperformance, TaskUs, Convergys"
+Data Scientist,-1,"Responsibilities for Data Scientist
+Work with stakeholders throughout the organization to build proof of concepts for new business solutions.
+Efficiently explore new data sources and assess data gathering techniques.
+Help to conceptually frame and refine relevant business questions.
+Build robust data pipelines.
+Develop custom machine learning models and algorithms.
+Coordinate with different functional teams to implement and productionize models while monitoring the performance.
+Communicate findings to different stakeholders.
+Essential Skills and Qualifications for Data Scientist
+At least 3 years experience in a Data Science role
+Strong critical thinking and problem-solving skills.
+Experience using statistical computer languages (preferably python or R) to manipulate data and draw insights from large data sets.
+Experience working with databases (e.g. SQL).
+Profound knowledge of a variety of machine learning techniques (clustering, classification, regression, deep learning) and their real-world advatages/drawbacks.
+Good knowledge of advanced statistical techniques and concepts (hypothesis testing, Bayesian statistics, properties of distributions) and experience with applications.
+Excellent written and verbal communication skills for coordination and communication.
+Curiosity and research attitude to learn new ideas and techniques.
+Coding experience (preferably python) to write robust and high standard code; experience with version control (preferably git)
+Its a bonus if you also have
+Automotive
+Deep learning
+Probabilistic graphical models
+Numerical optimization
+Economics
+-----------------------------------------------
+IHS Markit is committed to providing equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by the laws and regulations in any of our locations.
+
+We are proud to provide reasonable accommodations to applicants with disabilities. If you are interested in applying for employment with IHS Markit and need special assistance or an accommodation to use our website or to apply for a position, please contact or call +1 212 849 0399. Determination on requests for reasonable accommodation are considered on a case-by-case basis. This contact information (email and phone) is intended for application assistance and accommodation requests only. We are unable to accept resumes or provide information about application status through the phone number or email address above. Resumes are only accepted through the online application process, and only qualified candidates will receive consideration and follow-up.
+
+IHS Markit maintains a substance-free workplace; employees may be asked to submit to a drug test (where permitted by law). In addition, as a federal contractor in the United States, the company participates in the E-Verify Program to confirm eligibility to work.
+
+For information please click on the following links:
+
+IHS Markit Business Code of Conduct
+Right to Work
+EEO is the Law
+EEO is the Law Supplement
+Pay Transparency Statement
+
+-----------------------------------------------
+
+Current Colleagues
+
+If you are currently employed by IHS Markit, please apply internally via the Workday internal careers site.",3.5,"IHS Markit
+3.5",Gurgaon,"London, United Kingdom",10000+ employees,2016,Company - Public,Consulting,Business Services,₹100 to ₹500 billion (INR),"Thomson Reuters, International Data Group"
+Data Scientist,-1,"Analytics
+Data Scientist - QuantumBlack
+
+Gurugram
+
+Apply Now
+
+Qualifications
+
+Masters or PhD level in the field of computer science, machine learning, applied statistics, mathematics
+Experience in statistical modelling and machine learning techniques
+Programming experience in at least two of the following languages: R, Python, Scala, SQL
+Experience in applying data science methods to business problems
+Experience in applying advanced analytical and statistical methods in the commercial world
+Good presentation and communication skills, with the ability to explain complex analytical concepts to people from other fields
+
+Who You'll Work With
+
+You will join the Gurugram office, and be part of QuantumBlack. You will work with other data scientists, data engineers, machine learning engineers, designers and project managers on interdisciplinary projects, using maths, stats and machine learning to derive structure and knowledge from raw data across various industry sectors.
+
+Who you are
+
+You are a highly collaborative individual who is capable of laying aside your own agenda, listening to and learning from colleagues, challenging thoughtfully and prioritising impact. You search for ways to improve things and work collaboratively with colleagues. You believe in iterative change, experimenting with new approaches, learning and improving to move forward quickly.
+
+What You'll Do
+
+As a data scientist at QuantumBlack:
+
+You will work in multi-disciplinary environments harnessing data to provide real-world impact for organisations globally. You will influence many of the recommendations our clients need to positively change their businesses and enhance performance.
+
+Role responsibilities
+Work on complex and extremely varied data sets from some of the world’s largest organisations to solve real world problems
+Develop data science products and solutions for clients as well as for our data science team
+Write highly optimized code to advance our internal Data Science Toolbox
+Work in a multi-disciplinary environment with specialists in machine learning, engineering and design
+Add real-world impact to your academic expertise; you will be encouraged to write ‘black’ papers and present at meetings and conferences should you wish
+Attend conferences such as NIPS and ICML as one global team and data science retrospectives where you will have the opportunity to share and learn from your colleagues
+Work within one of the largest and most advanced data science teams in London, and support the lead data scientists to develop data science products
+What you’ll learn
+How successful projections on real world problems across a variety of industries are completed through referencing past deliveries of end to end machine learning pipelines
+Build products alongside the core engineering team and evolve the engineering process to scale with data, handling complex problems and advanced client situations
+Be able to focus on modelling by working alongside the Data Engineering team which focuses on the wrangling, clean-up and transformation of data.
+Best practices in software development and productionise machine learning by working with our Machine Learning Engineering teams which optimise code for model development and scale it
+Work with our UX and Visual Design teams to interpret your complex models into stunning and user-focused visualisations
+Using new technologies and problem-solving skills in a multicultural and creative environment
+You will work on the frameworks and libraries that our teams of Data Scientists and Data Engineers use to progress from data to impact. You will guide global companies through data science solutions to transform their businesses and enhance performance across industries including healthcare, automotive, energy and elite sport.
+Real-World Impact – No project is ever the same; we work across multiple sectors, providing unique learning and development opportunities internationally.
+Fusing Tech & Leadership – We work with the latest technologies and methodologies and offer first class learning programmes at all levels.
+Multidisciplinary Teamwork - Our teams include data scientists, engineers, project managers, UX and visual designers who work collaboratively to enhance performance.
+Innovative Work Culture – Creativity, insight and passion come from being balanced. We cultivate a modern work environment through an emphasis on wellness, insightful talks and training sessions.
+Striving for Diversity – With colleagues from over 40 nationalities, we recognise the benefits of working with people from all walks of life.
+Our projects range from helping pharmaceutical companies bring lifesaving drugs to market quicker to optimising a Formula1 car’s performance. At QuantumBlack you have the best of both worlds; all the benefits of being part of one of the leading management consultancies globally and the autonomy to thrive in a fast growth tech culture:
+Healthcare Efficiency – We helped a healthcare provider improve their clinical trial practices by identifying congestion in diagnostic testing as a key indicator of admissions breaches.
+Environmental Impact – We designed and built the first data-driven application for a state of the art centre of excellence in urban innovation by collecting real-time data from environmental sensors across London and deploying proprietary analytics to find unexpected patterns in air pollution.
+Product Development – We worked with the CEO of an elite automotive organisation to reduce the 18-month car development timeframe by improving processes, designs and team structures.
+Visit our Careers site to watch our video and read about our interview processes and benefits
+
+As an equal opportunity employer, QuantumBlack encourages applications from all backgrounds regardless of gender, race, disability, pregnancy, marital status, age, sexual orientation, gender reassignment, religion or belief. We maintain a sense of community rooted in respect and consideration for all employees where any evaluation is based simply upon individual work and team performance.
+
+Industries
+High Tech
+
+Functions
+Technology
+
+Apply Now
+FOR U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity/Affirmative Action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender
+identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran
+status, age, or any other characteristic protected by applicable law.
+
+FOR NON-U.S. APPLICANTS: McKinsey & Company is an Equal Opportunity employer. For additional details
+regarding our global EEO policy and diversity initiatives, please visit our
+McKinsey Careers and
+Diversity & Inclusion sites.",4.3,"QuantumBlack
+4.3",Gurgaon,"London, United Kingdom",501 to 1000 employees,2009,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,"Palantir Technologies, Google, Microsoft"
+Data Scientist cl 10,-1,"Job Skill: NA
+Designation: Career Level - 10-Analyst
+Job Location: Mumbai
+Qualifications: Any Graduation
+Years of Experience: 5-7 years
+About Accenture
+
+
+Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy, consulting, digital, technology and operations. Combining unmatched experience and specialized skills across more than 40 industries and all business functions underpinned by the worlds largest delivery network Accenture works at the intersection of business and technology to help clients improve their performance and create sustainable value for their stakeholders. With 500,000 people serving clients in more than 120 countries, Accenture drives innovation to improve the way the world works and lives. Visit us at www.accenture.com
+
+
+
+Job Summary
+
+
+Good to have skills: You will be aligned with our Data Analytics vertical and help us with your expertise in building world class solutions, conquering the business problems, addressing technical challenges using Data management and Visualization tools and techniques. You will be working as a part of Data Management team which is accountable for Data Management that includes fully scalable relational database management system. ETL(Extract, Transport and Load) - Set of methods and tools to extract data from outside sources, transform it to fit an organization`s business needs and load it into a target such as the organization`s data warehouse.
+
+Roles and Responsibilities
+
+
+In this role you are required to do analysis and solving of increasingly complex problems. Interaction is with peers within Accenture before updating supervisors. Likely has some interaction with clients and/or Accenture management. Minimal instruction on daily work tasks and a moderate level of instruction on new assignments will be provided. Decisions made by you impact your own work and may impact the work of others. In this role the person would be an Individual contributor and/or oversees a small work effort and/or team. Please note that this role may require you to work in rotational shifts.",3.9,"Accenture
+3.9",Mumbai,"Dublin, Ireland",10000+ employees,1989,Company - Public,Consulting,Business Services,₹500+ billion (INR),"Cognizant Technology Solutions, EY, McKinsey & Company"
+Data Scientist,-1,"Jr. Data Scientist / Data Scientist
+
+Having a strong background in machine learning who are extremely passionate about solving real-world applied problems in the various business domains. A real opportunity to expand skill-sets and a chance to learn and use the latest advances and approaches in machine learning and data mining on real-world datasets.
+
+Working at a fast-paced work environment where one is expected to be self-motivated and are measured on performance.
+
+Job Responsibilities
+
+Ability to understand a problem statement and implement analytical solutions & techniques independently or with minimal supervision
+
+Work and collaborate with other teams to deliver and create value for clients
+
+Fast learner: ability to learn and pick up a new language/tool/ platform quickly
+
+Conceptualize, design and deliver high-quality solutions and insightful analysis
+
+Conduct research and prototyping innovations; data and requirements gathering; solution scoping and architecture; consulting clients and client-facing teams on advanced statistical and machine learning problems.
+
+Ability to deliver AIML based solutions around a host of domains and problems, with some of them being: Customer -Segmentation & Targeting, Propensity Modeling, Churn Modeling, Lifetime Value Estimation, Forecasting, Recommender Systems, Modeling Response to Incentives, Marketing Mix Optimization, Price Optimization
+
+Experience Required:
+
+Intermediate to expert level proficiency in at least one of R and Python
+
+Ability to discover effective solutions to complex problems. Strong skills in data structures and algorithms.
+
+Experience of working on a project end-to-end: problem scoping, data gathering, EDA, modelling, insights, and visualizations
+
+Problem-solving: Ability to break the problem into small problems and think of relevant techniques which can be explored & used to cater to those
+
+Intermediate to advanced knowledge of machine learning, probability theory, statistics, and algorithms. You will be required to discuss and use various algorithms and approaches on a daily basis.
+
+We use regression, Bayesian methods, tree-based learners, SVM, RF, XGBOOST, time series modelling, dimensionality reduction, SEM, GLM, GLMM, clustering etc on a regular basis. If you know a few of them you are good to go.
+
+Experience of working in cloud-based environments such as AWS, GCP, Azure
+
+Good to Have:
+
+Experience in one of the upcoming technologies like deep learning, NLP, image processing, recommender systems
+
+The experience of working in on one or more domains:
+
+CPG: pricing and promotion analytics, marketing analytics, trade promotions, supply chain management
+
+BFSI: cross-sell, up-sell, campaign analytics, treasury analytics, fraud detection
+
+Healthcare: medical adherence, medical risk profiling, EHR data, fraud-waste-abuse
+
+Experience in working with Linux computing environment and use of command-line tools like sed/awk
+
+Grasp at databases including RDBMS, NoSQL, MongoDB etc.
+
+Requirements
+
+Education Qualification
+
+B.Tech / M.Tech in Computer Science / Mathematics / Signal Processing or related fields from one of the premier Institutes (IITs/NITs/BITS)",3.6,"Mastek Limited
+3.6",Mumbai,"Reading, United Kingdom",1001 to 5000 employees,1982,Company - Public,IT Services,Information Technology,₹10 to ₹50 billion (INR),"Capgemini, Cognizant Technology Solutions, Mindtree"
+Data Scientist,-1,"Knorex develops a cloud-based, highly scalable, all-in-one advertising and marketing platform called Knorex XPO™ where Advertisers, Agencies and Publishers can easily create, optimize & publish Dynamic Ads worldwide with speed and ease. As part of the platform offering, anyone can launch performance campaign and traffic their ads programmatically via automated buying through our in-house media planner, real-time bidder and optimizer. Owing to the large and real-time stream of data, we would have to devise efficient algorithms to tackle the challenges. We are seeking for a Data Scientist with the zest and passion to join us in developing the platform. You will be working with cross-disciplinary teams including Data Engineers, Performance Specialists and Software Engineers to build a highly intelligent and scalable system that can handle billions of requests per day, all delivered within milliseconds.
+
+In this role, you will be expected to possess solid experience in applying machine learning algorithms and statistical techniques to build highly accurate models. You need to acquire a deep technical understanding of the platform, and work with other team members to ensure the timely delivery of the planned tasks and critically assess and monitor the efficiency and/or effectiveness of the models.
+
+Key Responsibilities
+Develop clever algorithms and pragmatic solutions to our automation and optimization problems.
+Build high accuracy machine learning models that can learn and optimize performance from vast amount of data.
+Develop metrics to measure the outcome/impact of your introduced solutions.
+Work with other members to implement and integrate into our existing systems.
+Document and improve the solutions over time.
+Evaluate and identify new technologies for implementation.
+Communicate with our business and technical teams to understand the analytics requirements.
+Respond and follow up to incorporate feedback and draw new insights.
+Prioritize tasks to meet multiple deadlines.
+Requirements
+Solid understanding of statistical analysis, machine learning and data-modeling.
+Practical experience with machine learning toolkits and frameworks. Experience with scikit-learn and Tensorflow is a plus.
+At least 2-5 years of working experience using Java, Python in machine learning related projects. (can be waived for fresh grads with strong research background)
+Experience in predictive modeling and analysis.
+Practical experience with machine learning toolkits and frameworks
+Willingness to learn and able to pick up new technology or new concepts fast;
+Able to work independently as well as in collaborative mode with minimum supervision;
+Work productively even under pressure;
+Possess good work ethic, attitude with good follow-through;
+Excellent communication in written and spoken English.
+Benefits
+Ample opportunities to grow. You get to propose your own ideas and see it through
+Work with passionate, talented and driven colleagues who get things done!
+Opportunity to work cross-country and with variety of projects of different nature
+Challenging and exciting problems that await you to solve
+Comprehensive Health Insurance Coverage
+W3F (Work, Wellbeing, Welfare) Fund for courses, materials, personal health and wellbeing",3.3,"KNOREX
+3.3",Pune,"Singapore, Singapore",51 to 200 employees,2009,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Experience : NA
+Qualification : Bachelors in Computer Science.
+Functional Area : IT Software (Banking)
+Employment Type : Full time
+Location : Bangalore
+Job Description
+
+We are looking for a data scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products.
+
+Applications include Fraud Analytics, Automated credit scoring using Machine Learning Techniques, Recommendation system for credit products.
+
+Responsibilities
+
+Selecting features, building and optimizing classifiers using machine learning techniques.
+Data mining using state-of-the-art methods.
+Extending company’s data with third party sources of information when needed.
+Enhancing data collection procedures to include information that is relevant for building analytic systems.
+Processing, cleansing, and verifying the integrity of data used for analysis.
+Doing ad-hoc analysis and presenting results in a clear manner.
+Creating automated anomaly detection systems and constant tracking of its performance.
+Designing algorithms to solve specific issues faced by the financial sector.
+Skills and Qualifications
+
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc. Excellence in at least one of these is highly desirable.
+Great communication skills.
+Experience with data visualisation tools, such as Microsoft SSRS.
+Proficiency in using query languages such as SQL.
+Experience with NoSQL databases, such as MongoDB, Cassandra.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills .
+Data-oriented personality.
+Bachelors in Computer Science with relevant experience is preferred.
+
+Email : hr@processwaresystems.com
+
+Phone No : 080-26572188, 26579635",3.5,"Processware Systems
+3.5",Bengaluru,"BENGALURU, India",51 to 200 employees,-1,Company - Private,Computer Hardware & Software,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"At Franklin Templeton Investments, we are dedicated to delivering strong results and exceptional service to clients, team members and business partners. Over 9,000 employees working in 60 offices around the world are dedicated to servicing investment solutions for our clients in more than 150 countries. For over 65 years, our success has been a direct result of the talent, skills and persistence of our people, and we are looking for qualified candidates to join our team.
+
+What is the Data Scientist – Client Analytics group responsible for?
+Works with their team in support of a single business unit, providing support for solving more complex problems for their domain by developing a variety of models and statistical techniques. They also perform ad hoc statistical and data mining analysis as required
+What are the ongoing responsibilities of a Data Scientist?
+Data Preparation, Gathering and Analysis Collects data from disparate systems, analyzes it, and delivers the data as intelligence that is actionable Analyzes and interprets the results of research experiments through statistical models Solves analytical problems utilizing large structured, semi-structured and un-structured data in a distributed processing environment (Required)
+Statistical Analysis - Data Mining and Advanced Analytic Techniques Develops predictive, statistical, behavioral, or other models using supervised and un-supervised machine learning / statistical modeling techniques Performs ad hoc statistical and data mining analyses (Required)
+Training, Research and Development Conducts research on various advanced statistical techniques to apply to appropriate analytical problems (Required)
+Skills:
+Ability to translate business challenges into analytical problems
+Ability to articulate and explain statistical / machine learning techniques to business partners
+Proven experience in telling stories using data
+Ability to handle large datasets for building Statistical/Machine learning models which includes hands on experience working on data cleansing, manipulation and data mining
+Proven ability to work with ambiguous (not well defined) challenges
+Displays curiosity to learn and learns independently
+Excellent written and verbal communication skills
+Excellent organizational and planning skills
+Proven ability to take initiative and work under pressure in a changing/growing environment
+Ability to work individually or as a team as task requires
+Able to cultivate interpersonal customer and co-worker relationships
+What ideal qualifications, skills & experience would help someone to be Successful?
+Master’s / Bachelor’s degree in Statistics, Mathematics, Econometrics, Computer Science, Engineering or related disciplines, preferably from premier Institutes
+3-5 years of experience in advanced analytics
+Proven Experience in Statistical and Machine learning techniques
+Desirable to have experience in Time Series modelling as well
+Experience in SAS or R or Python
+Experience in SQL
+What makes Franklin Templeton Investments unique?
+In addition to the dynamic and professional environment at Franklin Templeton, we strive to ensure that our employees have access to a competitive and valuable set of Total Rewards—the mix of both monetary and non-monetary rewards provided to you in recognition for your time, talents, efforts, and results.
+
+Highlights of our benefits include:
+
+Professional development growth opportunities through in-house classes and over 150 Web-based training courses
+An educational assistance program to financially help employees seeking continuing education
+Medical, Life, and Personal Accident Insurance benefit for employees. Medical insurance also covers employee’s dependents (spouses, children and dependent parents)
+Life Insurance for protection of employees families
+Personal accident insurance for protection of employees and their families
+Personal loan assistance
+Employee Stock Investment Plan (ESIP)
+Onsite fitness center, recreation center, and cafeteria
+Cricket grounds and gymnasium
+Library
+Health Center with doctor availability
+Tuition Assistance Program
+HDFC ATM on the campus
+Franklin Templeton Investments is an Equal Opportunity Employer. We invite you to visit us at http://www.franklintempletoncareers.com/ to learn more about our company and our career opportunities.",3.8,"Franklin Templeton Investments
+3.8",Hyderabad,"San Mateo, CA",5001 to 10000 employees,1947,Company - Public,Investment Banking & Asset Management,Finance,₹500+ billion (INR),"Fidelity Investments, Vanguard"
+Data Scientist,-1,"JOB DESCRIPTION
+</b></u></h2>
+
+KEY RESPONSIBILITIES :
+Using techniques from supervised and unsupervised machine learning, statistical analysis and predictive modelling to deliver business insights to business units based on data
+Working directly with internal customers to educate them on moving beyond BI and training their internal resources to execute advanced forms of analytics
+Creating reusable implementations of statistical tests and models using cutting edge technologies
+Working with the academic and business community to develop new techniques and to contribute to research in the area of advanced analytics in media
+Assisting in engagement management, requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management
+PERFORMANCE MEASURES :
+As per role KPIs
+QUALIFICATION :
+2-8 Years plus post qualification
+Degree in computer science with a machine learning focus (other technical degrees also accepted e.g. applied mathematics, statistics, physics, operations research). PhD will be desirable.
+KNOWLEDGE AND SKILLS :
+Advanced knowledge of statistical and machine learning methods, particularly in the areas of modelling and business analytics
+Strong programming skills
+Experience with statistical languages and packages, such as R, SAS, Mat-Lab, and/or Mahout
+Experience working with relational databases and/or distributed computing platforms, and their query interfaces, such as SQL, MapReduce and Hive.
+Experience with additional programming languages, such as Python, Java, and C/C++.
+Excellent written and verbal communications skills, with a proven ability to translate complex methodologies and analytical results to higher-level business insights and key take-away
+A proven passion for generating insights from data, with a strong familiarity with the higher-level trends in data growth, open-source platforms, and public data sets.
+Experience working hands-on with large-scale data sets
+Familiarity with visualization software and techniques (including Tableau), and business intelligence (BI) software, such as Micro-strategy, Cognos, Pentaho, etc.
+PERSONAL ATTRIBUTES :
+Creative, gritty, driven by curiosity and comfortable with failure
+Strong Data intuition: Talent to identify and visualize patterns
+Multi Modal Communication skills
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.",3.9,"Walt Disney Company
+3.9",Mumbai,"Burbank, CA",10000+ employees,1923,Company - Public,Film Production & Distribution,Media,₹500+ billion (INR),"News Corp, WarnerMedia, NBCUniversal"
+Data Scientist,-1,"The thrill of working at a start-up that is starting to scale massively is something else.
+
+Simpl (getsimpl.com) was formed in 2015 by Nitya Sharma, an investment banker from Wall Street and Chaitra Chidanand, a tech executive from the Valley, when they teamed up with a very clear mission - to make money simple, so that people can live well and do amazing things. Simpl is the payment platform for the mobile-first world, and we’re backed by some of the best names in fintech globally (folks who have invested in Visa, Square and Transferwise), and has Joe Saunders, Ex Chairman and CEO of Visa as a board member.
+
+Everyone at Simpl is an internal entrepreneur who is given a lot of bandwidth and resources to create the next breakthrough towards the long term vision of “making money Simpl”. Our first product is a payment platform that lets people buy instantly, anywhere online, and pay later. In the background, Simpl uses big data for credit underwriting, risk and fraud modelling, all without any paperwork, and enables Banks and Non-Bank Financial Companies to access a whole new consumer market.
+
+Job Description :
+
+Responsibilities:
+Work with business stakeholders in the organization to identify avenues to take data backed decisions.
+Collaborate with product and engineering teams for carrying out experiments and accommodating new changes to the data platform.
+Transform the business problem into a mathematical one to leverage cutting edge techniques in machine learning and optimization.
+Test hypothesis, generating insights, performing root cause analysis, factor analysis.
+Statistical model (predictive & prescriptive) development using various statistical & machine learning techniques/algorithms.
+Develop processes & tools to monitor and analyse model performance & accuracy.
+Data Extraction from Big Data Platform, Dataset Preparation (creation of base data, aggregation, transformation), performing Exploratory Data Analysis.
+Write clean & easy to maintain code and productionise it.
+Requirements:
+Strong problem solving skills
+Deployed at least one industrial project using supervised / unsupervised machine learning.
+Good programming skills with clarity in fundamentals - preferably Python
+Knowledge of Python Libraries like Scipy, Numpy, Pandas, IPython, Scikit-learn is a plus
+Proficient with SQL and relational databases
+Proficient with git
+Familiarity with infrastructure tools like AWS EC2, AWS EMR, AWS Redshift, Redis, Kafka is a plus
+Good communication skills",4.3,"Simpl
+4.3",Bengaluru,"Bengaluru, India",51 to 200 employees,2015,Company - Private,Financial Transaction Processing,Finance,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Job Description: Data Scientist
+
+Education & Training
+
+• Bachelor’s degree or Masters in Computer Science/Statistics/Mathematics
+
+Experience
+• 7 to 9 years of experience in executing data-driven solutions to increase efficiency, accuracy, and utility of internal data processing.
+• Experienced at creating data regression models, using predictive data modeling, and analyzing data mining algorithms to deliver insights and implement action-oriented solutions to complex business problems.
+• Proficient knowledge in statistics, mathematics and data analysis
+• Excellent understanding of business operations and analytics tools for effective analysis of data
+• Experience on optimized data collection procedures and generate reports.
+• Experience on building predictive models and machine-learning algorithms.
+• Experience in designing complex reports such as Drill-down, Drill-through, Cascading, Matrix, cross tab and Map reports using Power BI or Tableau
+• Expertise in data storage structures, data mining, and data cleansing
+• Systematic problem-solving approach with strong communication skills and a sense of ownership and drive
+
+Skills
+• Primary Skills
+• Strong hold of concepts in Statistics
+• Strong programming skills in R, Python, Java
+• Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark.
+• Proficient with NoSQL databases like MongoDB, PostgreSQL and Cassandra running huge volumes of data
+• Proficient in with SQl Databases like MSSql, Postgres.
+• Have a good exposure to Azure Analytics Products like, Data Factory, HD Insights, Azure Data Lake Storage, Data Bricks.
+• Experience on different data visualization tools like PowerBI , Tableau.
+• Secondary Skills
+• Tools - Qliksense , Tableau
+• Kusto Query Language
+Job Responsibilities
+
+• Supporting the analytics needs of business by analyzing data from multiple sources
+• Identify valuable data sources and automate collection processes
+• Undertake preprocessing of structured and unstructured data
+• Analyze large amounts of information to discover trends and patterns
+• Support in collecting, organizing, and interpreting data along with fellow colleagues.
+• Build predictive models and machine-learning algorithms
+• Use machine learning tools and statistical techniques to produce solutions to problems
+• Combine models through ensemble modeling
+• Present information using data visualization techniques
+• Propose solutions and strategies to business challenges
+• Collaborate with engineering and product development teams
+
+Job Responsibilities
+Responsible
+for installation, maintenance, and providing support for Application
+Performance Monitoring and Instrumentation with the primary focus on
+AppDynamics and Azure Monitor.
+Help
+define and implement best practices for Production Application Management
+monitoring
+Assist
+engineers with production Infrastructure Monitoring
+Ability
+to develop necessary POCs & POVs in sandbox/testing environment
+Ability
+to support setup and configuration of the APM tool
+Assist
+in building an APM Centre of Excellence
+Operating
+system and server architecture knowledge of UNIX/Windows/virtual systems
+Assist
+development teams with application and server troubleshooting and
+diagnostics
+Programming
+automation (VBA /VB.Net, JAVA or major scripting languages such as Perl
+and Python, Unix/Linux shell scripts)",3.5,"Mercedes-Benz Research and Development India Private Limited
+3.5",Bengaluru,"Chakan, India",1001 to 5000 employees,1996,Company - Private,IT Services,Information Technology,₹10 to ₹50 billion (INR),"Volkswagen, Tata Motors"
+Data Scientists,-1,"CAREERS
+
+Data Scientists
+
+Bengaluru, India
+JOB DESCRIPTION
+
+As a Data Scientist with Tredence, you will play a key role in translating data into insights for our clients. You will design, develop and implement processes and framework that will help our clients make sense of the data they generate, and consume the insights to make informed decisions.
+THE IDEAL CANDIDATE WILL
+
+Have the ability to handle structured /unstructured data and have prior experience in loading, validating and cleaning various types of data.
+Have very good understanding of data structures and algorithms.
+Have excellent coding skills in one or more of the following languages: Python, Java, C++ or R
+Have thorough understanding of one or more of the following: Machine Learning algorithms, Natural Language Processing techniques, and Information Retrieval techniques
+Have the ability to apply these algorithms in a professional setting.
+Be accountable for measuring and optimizing the quality of algorithms.
+Have good background in Math and Statistics.
+Have ability to identify opportunities where data science techniques can be applied to solve business problems.
+Take ownership of the end to end system from Problem statement to Solution Delivery
+Preferred Skills
+Experience working with Hadoop/AzureML/Hive/H2O would be an added advantage.
+Experience with deep learning techniques like Theano, Torch and TensorFlow is preferred.
+ELIGIBILITY CRITERIA
+
+BE/B. Tech/MS degree in Computer Science or related quantitative field with 2-8 years or relevant experience in a team building world class applications in the areas of Predictive Analytics and Data Science.
+Send your CV to careers@tredence.com",3.5,"Tredence
+3.5",Bengaluru,"San Jose, CA",501 to 1000 employees,2013,Company - Private,Consulting,Business Services,₹1 to ₹5 billion (INR),-1
+Data Scientist,-1,"“Make every logistics journey your best one yet” - Quincus
+
+The Company.
+
+At Quincus, our technology is designed to ease shipping issues—wherever in the world they may be. We commit ourselves in designing the most effective total end to end supply chain solutions through a dedicated technology ecosystem. This offers our users a personalized experience that bypasses traditional and expensive logistics options. By combining advanced technology, data analytics, and hands-on experience, we eliminate traditional and expensive logistics options.
+
+The Opportunity.
+
+As our business continues to grow, we are looking for a Data Scientist to join our team. The incumbent will turn data into understandable information for effective business making decisions. This person is passionate about Machine Learning. numbers and loves the idea of helping to make decisions with the support of data.
+
+Your day to day.
+
+- Partner with Product and Engineering teams to solve problems and identify trends.
+- Creating and interpreting dashboards and reports to help leaders make more effective decisions.
+- Building key data sets to empower operational and exploratory analysis.
+- Experiments against data points and provide previously undiscovered solutions to command data challenges.
+
+Who you are.
+
+- Bachelor’s/Master’s in Computer Science/Engineering/Mathematics. [MCA, B.tech, M.tech]
+- Minimum 5 years of experience in the same role.
+- Proficient with one or more programming languages (Java, Python, R, etc.)
+- Demonstrated experience applying data science methods to real-world data problems
+- Ability to integrate multiple data sources and databases into one system.
+
+What’s in it for you.
+
+People: Work with passionate, smart, and entrepreneurial go-getters.
+Fun environment: cool office space, stocked pantry, and team bonding.
+Compensation: competitive salaries and benefits.
+
+
+
+QUINCUS is not obligated to accept candidate profiles from any third parties on behalf of potential candidates for any position (advertised or otherwise) by any means, unless QUINCUS has fully executed a written agreement with such third party and has expressly requested such third party for candidate referrals/introductions. Third parties who provide unsolicited resumes of candidate(s) shall waive and forfeit all rights to claim for any placement fees or referral fees in the event that such candidate is eventually engaged and/or employed by QUINCUS.",5.0,"Quincus
+5.0",New Delhi,"Singapore, Singapore",Unknown,-1,Company - Private,-1,-1,Unknown / Non-Applicable,-1
+Data Scientist,-1,"COMPANY OVERVIEW
+Tata Group is an Indian multinational conglomerate company headquartered in Mumbai, India. It encompasses seven business sectors: communications and information technology, engineering, materials, services, energy, consumer products and chemicals. Tata Group was founded in 1868 by Jamsetji Tata as a trading company. It has operations in more than 80 countries across six continents. Tata Group has over 100 operating companies with each of them operating independently.
+Tata Sons is the promoter of all key Tata companies and holds the bulk of shareholding in these companies.
+
+BACKGROUND The Tata companies together serve over million consumer and commercial customers today across several products and services. In order for the Tata companies to better understand customer and client needs and preferences, action life stages, needs, value, and potential, and enhance value and experience; the Tata companies need to develop robust data and information management capability and customer analytics. The vision is to eventually create the best in-house capability for data analytics amongst any large corporate. To achieve the above aims, it has been decided to establish an independent Tata company focused on building a common data analytics platform and help Tata Group companies. This company is being incubated in the initial phase as a division of Tata Industries and will subsequently be structured as a separate company to build Big Data Analytics and Data Science capabilities catering to but not limited to the ‘Consumer’ brands of the group.
+
+Tata Insights and Quants – Journey to Date
+Company: Tata - Insights and Quants – A Newly started division by Tata Industries.
+http://www.livemint.com/Companies/PCgvCZILuJKV68UKVHZRJO/With-new-analytics-arm-Tata-aims-to-make-better-sense-of-da.html
+Employer Brand: Tata iQ in 18 months of its inception was recognized in the list of Analytics India Magazine’s (AIM)
+Top 10 most desirable Analytics Indian Firms to work for in 2016:
+http://analyticsindiamag.com/top-10-analytics-firm-wish-worked-2016/
+Generating Value for Customer: Fourteen Tata companies are partnering Tata Insights and Quants (Tata iQ), a Big Data firm, to analyse data collected from users, consumers and make sense of it to put changes in place http://www.livemint.com/Companies/5om8ebrv6p02jGCcRB3j3K/Tata-companies-use-Big-Data-to-craft-strategies.html https://cio.economictimes.indiatimes.com/news/strategy-and-management/how-ranjit-satyanath-plugs-into-it-to-power-up-croma-for-the-digital-era/65050926
+
+Contributing to Community through big data:
+In line with the Tata group’s philosophy of giving back more to the society than what it takes, Tata iQ, Tata group’s big data and decision Sciences Company.
+Okhai partners with Tata iQ to deliver big impact through big data
+
+Company : Tata Insights and Quants
+Role : Data Scientist
+Level : Analyst – Associate - Senior Associate
+Role Type : Individual Contributor
+Location : Mumbai | Bangalore | Jamshedpur | Kalinga Nagar – All Options open
+
+Job Description The incumbent will be part of the Predictive Analytics, Digital Analytics, Data Sciences, Advanced Visualization, Insights & Experimentation team and will report to the Manager/Senior Manager. He/she will be an individual contributor working on multiple data sciences, advanced visualization and data management initiatives across multiple companies and industries leveraging traditional and big data. The incumbent will have the unique opportunity to witness the application of analytics across multiple industry verticals. Close partnership with business and the senior leadership of multiple Tata Companies will enable a clear understanding of the business perspectives and the application of analytics for solving real business problems.
+
+Key Responsibilities:
+Apply Data Mining/ Data Analysis methods using a variety of data tools, building and implementing models using algorithms and creating/ running simulations to drive optimisation and improvement across business functions
+Assess accuracy of new data sources and data gathering techniques
+Perform Exploratory Data Analysis, detailed analysis of business problems and technical environments in designing the solution
+Apply Supervised, Unsupervised, Reinforcement Learning and Deep Learning algorithms
+Apply advanced Machine Learning Algorithms and Statistics:
+o Regression, Simulation, Scenario Analysis
+o Time Series Modelling
+o Classification - Logistic Regression, Decision Trees, SVM, KNN, Naive Bayes
+o Clustering, K-Means
+o Ensemble Models - Random Forest, Boosting, Bagging
+o Neural Networks
+Lead and manage Proof of Concepts and demonstrate the outcomes quickly
+Document use cases, solutions and recommendations
+Work analytically in a problem-solving environment
+Work in a fast-paced agile development environment
+Coordinate with different functional teams to implement models and monitor outcomes
+Work with stakeholders throughout the organization to identify opportunities for leveraging organisation data and apply Predictive Modelling techniques to gain insights across business functions - Operations, Products, Sales, Marketing, HR and Finance teams
+Help program and project managers in the design, planning and governance of implementing Data Science solutions
+Experience and Skills:
+2-7 years of professional working experience in Analytics
+Experience in Retail, Financial Services and Manufacturing
+Experience using statistical packages of R, Python and Spark ML to work with data and draw insights from large data sets
+Experience with distributed data/ computing tools: Hadoop, Hive, Spark, Python
+Experience with SQL
+Experience visualizing/ presenting data for stakeholders using matplot, ggplot or Excel or Tableau
+Excellent written and verbal communication skills for coordinating across teams
+Education qualification:
+Bachelors/ Masters in a quantitative discipline (Statistics, Econometrics, Mathematics, Engineering and Science)
+Reach us on careers@tataiq.com",4.0,"Tata Insights and Quants
+4.0",Mumbai,"Zug, Switzerland",10000+ employees,1980,Unknown,Architectural & Engineering Services,Business Services,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Position title
+Data Scientist
+Description
+Excellent understanding of machine learning techniques and algorithms
+Proficiency with R/ Octave for modeling, Python & Java for production-ready code.
+Experience with common data science toolkits, such as R/ Octave for modeling, Python & Java for production-ready code. Excellence in at least one of these is highly desirable.
+Experience with data visualization and extracting insights from them.
+Proficiency in using query languages such as SQL, Learning in the area of NLP, predictive models & recommendation engines is a big plus
+Crunch a large volume of data, observe trends and build scalable & analytical models.
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills
+Data-oriented personality
+Good knowledge of databases like NoSQL, MongoDB, Postgre, etc.
+Perform Exploratory Data Analysis and Statistical Analysis; clearly present the results of an analysis to customers and management.
+Experience with AWS, Google Cloud is a plus
+Exposure with deep learning algorithms is a big plus
+Required Skills
+Selecting features, building and optimizing models using machine learning techniques
+Data mining using state-of-the-art methods
+Extending company’s data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleansing, and verifying the integrity of data used for analysis
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating automated anomaly detection systems and constant tracking of its performance
+Adopting new research methodologies including deep learning (CNNs LSTMs) on projects
+Job Responsibilities
+Bachelors/ Masters in Computer Science or Electronics from tier 1 & 2 colleges
+Contacts
+
+careers@algoscale.com",3.7,"Algoscale
+3.7",Noida,"Noida, India",1 to 50 employees,2014,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Qualification: BS/MS/MCA, BCA in Computer Science or equivalent Experience: 3+ Years
+
+Key Responsibilities:
+Dive into the data and identify patterns
+Development of end-to-end models and policy for our existing products
+Development of Fraud models and fraud rule engine
+Collaborate with various stakeholders (e.g. tech, product) to understand and design best solutions which can be implemented
+Work on cutting-edge techniques e.g. machine learning and deep learning models
+
+Skills Required:
+Strong Mathematics Basics
+Proficiency in Python, Matlab, C++ or any other AI language of choice
+Demonstrated expertise in solving Data Science problems from first principles
+Familiarity with relational and NoSQL databases
+Experience with Unix/Linux
+Good Problem solving & Analytical Skills",3.9,"Redian Software
+3.9",Gurgaon,"Noida, India",1 to 50 employees,2016,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Click to Apply
+
+Company Description
+
+Entytle is at the perfect intersection of big data analysis, predictive analytics, machine learning and sales automation.
+
+We are revolutionizing the way industrial OEM manufacturers can leverage existing information to make highly profitable data driven decisions and increase recurring revenue from their customer installed base.
+
+Our highly satisfied customers have derived tremendous ROI from our cutting edge software.
+
+Mission
+
+Deliver innovative but pragmatic solutions to help our customers drive recurring revenue sales, increase loyalty and capture lifetime value from their customers.
+
+Outcomes
+
+Work collaboratively with Entytle stakeholders to create AI and Machine Learning algorithms that address recurring revenue sales
+Utilize our data science platform to research and generate new insights into customer loyalty and lifetime value
+Provide our internal teams and customers a clear understanding of the models and research generated
+
+Position Description
+
+The position reports to the Head of Data Science. You will work with other data scientists, engineers and product management team members in developing insights and innovative data science models (e.g. AI, ML) in support of our installed base sales automation application. Your communication skills will allow you to work with internal teams and, as needed, our manufacturing-based customers. You will use your agile experience to work with our geographically dispersed teams.
+
+Responsibilities
+
+Work with, as needed, customers to understand business challenges and propose new modeling and algorithmic solutions that leverage the latest in statistical and machine learning techniques.
+Work collaboratively with the rest of the data science team, data engineers, developers and product management to translate business requirements into technical requirements that can be addressed with statistical and machine learning techniques.
+Study data sources and find insights/correlation to investigate how data science can be used to solve existing and new business challenges.
+Apply statistical analysis and modeling techniques on small and large datasets to solve specific business problems in the installed base sales automation domain.
+Use best practices in applying and deploying data science at scale.
+
+Competencies
+
+Strong sense of and an ability to cultivate an environment of teamwork, and a willingness to help others.
+Ability to effectively communicate technical concepts to both technical and non-technical staff members and customers.
+Proficiency in data analysis and programming languages such as SQL, Python, and R.
+2-4 years hands-on experience in machine learning, statistics or experiment design.
+Master’s Degree required in Statistics, Mathematics, Econometrics, Operations Research, Computer Science, Physics or a related field with focus on data analysis.
+Expertise in machine learning, statistics, data analysis. Must have an excellent knowledge of advanced methods, and experience in applying those methods to a variety of problems.
+Solid grasp of probability, statistical or mathematical modeling with analytical and quantitative problem-solving ability. Experience with time-series analysis would be a plus.
+Demonstrated experience in applying machine learning to real-world problems
+Familiarity with software development cycles, source control systems (including Git), databases, and cloud computing platforms such as AWS.
+Knowledge of large equipment manufacturing, installed base sales, recurring revenue, and equipment service would be a plus.",4.6,"Entytle
+4.6",Pune,"Palo Alto, CA",1 to 50 employees,2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown / Non-Applicable,-1
+Data Scientist,-1,"Data Scientist
+
+
+Full time
+
+-
+
+Pune
+
+The Company
+
+
+Talentica Software is a boutique software development company started by ex-IITB grads and industry veterans. It is a privately held company. The company is 16 years old and 400+ employees work exclusively for startups as Tech Partners taking them from a Series-A position to Series-B position and possible acquisition (for example Citrus Pay).
+We have built products for over 125 startups, most of them are based in the Bay Area or Europe. These startups come to us primarily because we know the issues that plague startup product development and the solutions for the same, thereby improving their success chances. Owing to the unique space we are in, we deal extensively with cutting edge technology.
+
+The data science team works under the purview of the Technology Excellence Group at Talentica Software. The goal of this team is to solve problems and build algorithms that are typically data driven. Hence, problems involving statistics, optimization, computer vision, machine learning, and natural language processing are of interest to this group.
+
+We are looking to hire a Data Scientist with Computer Vision and Machine Learning experience.
+
+Here is what we are looking for in prospective candidates: Mandatory
+Has completed his/her PhD from one of the old IITs or IISc-Bangalore
+Should have completed full-time PhD degree
+Graduated from IIT or IISc or IIIT-Hyderabad or ISI-Kolkata with a Master’s degree
+Should have at least one published full paper in CVPR or ECCV or ICML or NIPS
+Excellent programming skills and must be able to implement complex algorithms in Python
+Hands-on experience with use of standard image processing and machine learning libraries such as OpenCV, Tensorflow, Keras
+
+Here is what we are looking for in prospective candidates: Good to have
+Graduated from IIT-Bombay or IISc-Bangalore or IIT-Delhi
+Not required for the current role but it is good to have worked with Mongo/Cassandra/PostgreSQL/Neo4J
+Credited courses focused on linear algebra, stochastic models, pattern recognition, design and analysis of algorithms, machine learning
+Interest in applications of computer vision algorithms for video, shape recognition, matching & retrieval
+
+Experience:
+Should have worked in the industry for at least 2 years.
+Should like to work in a startup environment.
+Should be capable of converting theory to practice by reading relevant papers.
+Should be capable of conceiving original ideas and coding them as working algorithms.",3.8,"Talentica
+3.8",Pune,"Pune, India",201 to 500 employees,2003,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
+Associate Data Scientist,-1,"Position Title
+Associate Data Scientist
+
+05-Jun-2020
+
+Job ID
+296716BR
+
+Job Description
+20 petabytes of data across 30 data domain across the whole bio-pharma value chain waiting for you to unlock the next breakthrough in medicine.
+Your responsibilities include, but are not limited to:
+•Understand complex and critical business problems from Country/Regional/Global business functions, formulate integrated data science based approaches to mine data sources, employ statistical methods and machine learning algorithms to derive actionable insights. High agility to be able to work across various business domains (commercial, NTO, GDD,NIBR, NBS). Able to use business presentations, smart visualization tools and contextual story-telling to translate findings back to business users with a clear impact.
+•Think creatively, conceptualize and lead projects resulting in substantial long-term impact on the company’s vision in many key strategic areas such as drug discovery/manufacturing, product launches, determining optimal treatment plans/courses, expanding patient access, predictive/precision medicine, risk mitigation, business growth, brand management, product life cycle, data strategy etc.
+•Design, develop and deliver various data science based insights, outcomes and innovation (using mathematics, computer science, statistics, engineering, management science, technology, economics, etc) and create “proof of concepts & blueprints” to drive faster, timely, highly precise, workable and proactive decision making based on data based insights and science and shape strategic glidepath of the company.
+•Lead successful cross-functional collaborations with significant execution rigor, customer focus and “Data to Decision” thinking.
+•Demonstrate a comprehensive view of science and technology and deliver a compelling enterprise vision of how Data, Digital & Artificial Intelligence can contribute to providing quantum in leap in building foundational/groundbreaking capabilities.
+•Transcending a wide spectrum of areas such as research/science, drug discovery/development, commercial, procurement, technology, product, brand, business, strategy, analytics, operations, risk/compliance, legal, etc and propel growth and performance.
+•Design and develop state-of-the-art, data-driven analysis, models and decision strategies to solve science and business problems. Choose and apply appropriate predictive analytic technologies (such as statistical modeling, neural networks, scorecards, machine learning, pattern recognition and artificial intelligence) heavily injected with domain expertise.
+•Appropriately, question the veracity and business relevance of data, assumptions, and results and use of solution at all steps of the process. The outcome is improved performance through the design, development, and deployment of project deliverables.
+
+https://www.youtube.com/embed/Mo1vwtVPVA0
+
+Minimum requirements
+•M.S/Ph.d in Computer Science, Mathematics, Statistics, Operations Research, Cognitive Sciences, Engineering, Finance, Economics, Medicine, Technology, Management Science, other Quant discip
+•Experience :0-2 years
+Why consider Novartis?
+799 million. That’s how many lives our products touched in 2019. And while we’re proud of that fact, in this world of digital and technological transformation, we must also ask ourselves this: how can we continue to improve and extend even more people’s lives?
+
+We believe the answers are found when curious, courageous and collaborative people like you are brought together in an inspiring environment. Where you’re given opportunities to explore the power of digital and data. Where you’re empowered to risk failure by taking smart risks, and where you’re surrounded by people who share your determination to tackle the world’s toughest medical challenges.
+
+Imagine what you could do at Novartis!
+Commitment to Diversity & Inclusion:
+Novartis embraces diversity, equal opportunity and inclusion. We are committed to building diverse teams, representative of the patients and communities we serve, and we strive to create an inclusive workplace that cultivates bold innovation through collaboration, and empowers our people to unleash their full potential.
+
+Join our Novartis Network: If this role is not suitable to your experience or career goals but you wish to stay connected to learn more about Novartis and our career opportunities, join the Novartis Network here: https://talentnetwork.novartis.com/network
+
+Job Type
+Full Time
+
+Country
+India
+
+Work Location
+Hyderabad, AP
+
+Functional Area
+BD&L & Strategic Planning
+
+Division
+CORPORATE
+
+Business Unit
+DIGITAL OFFICE
+
+Employment Type
+Regular
+
+Company/Legal Entity
+Nov Hltcr Shared Services Ind
+
+Shift Work
+No",3.9,"Novartis
+3.9",Hyderabad,"Basel, Switzerland",10000+ employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,₹500+ billion (INR),-1
+Data Scientist,-1,"As a Data Science Associate Manager at PayPal, you will apply your leadership, strategic and analytical skills to major company challenges. You will act as a business consultant to drive recommendations and implement solutions that ultimately impact the bottom line. And you will do it all by collaborating with a global team of colleagues across sales, operations, product, data science, and finance in an environment that values your insight, encourages you to take on new responsibility, promotes continuous learning, and rewards innovation.",3.1,"Stark Inc.
+3.1",New Delhi,"Cambridge, MA",1001 to 5000 employees,1972,Non-profit Organisation,Aerospace & Defence,Aerospace & Defence,₹50 to ₹100 billion (INR),"BAE Systems USA, MITRE, Raytheon Technologies"
+Data Scientist,-1,"Full Time
+Gurgaon
+Posted on June 3, 2020
+
+Website
+Redian Software Redian Software
+
+Redian Software
+
+Qualification: BS/MS/MCA, BCA in Computer Science or equivalent Experience: 3+ Years
+
+Key Responsibilities:
+Dive into the data and identify patterns
+Development of end-to-end models and policy for our existing products
+Development of Fraud models and fraud rule engine
+Collaborate with various stakeholders (e.g. tech, product) to understand and design best solutions which can be implemented
+Work on cutting-edge techniques e.g. machine learning and deep learning models
+Skills Required:
+Strong Mathematics Basics
+Proficiency in Python, Matlab, C++ or any other AI language of choice
+Demonstrated expertise in solving Data Science problems from first principles
+Familiarity with relational and NoSQL databases
+Experience with Unix/Linux
+Good Problem solving & Analytical Skills
+
+To apply for this job email your details to hr@rediansoftware.com.",3.9,"Cubic Web Solutions
+3.9",Gurgaon,"Noida, India",1 to 50 employees,2011,Company - Private,IT Services,Information Technology,Unknown / Non-Applicable,-1
